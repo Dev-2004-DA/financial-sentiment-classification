@@ -1,0 +1,15 @@
+# Raw Data
+data/raw/
+
+# Python Virtual Environments & Caches
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# System / IDE Files
+.DS_Store
+.vscode/
+.idea/
+*.docx
